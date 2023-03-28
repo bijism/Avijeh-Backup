@@ -1,5 +1,3 @@
-Thank you for sharing the updated script with me. Here’s a sample help file that you can use as a template:
-
 Help File
 Description
 This script is used to backup a WordPress folder and database and move them to an S3 bucket using s3cmd.
