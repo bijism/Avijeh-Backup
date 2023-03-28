@@ -1,3 +1,11 @@
+# Copyright (c) 2023 OpenAvijeh Inc.
+# website : www.openavijeh.com
+# Developer : Bijan Behvandi
+# Linkedin : https://ir.linkedin.com/in/bijan-behvandi-a74a963b
+# This is a free software for backing up WordPress servers
+# This software can automatically backup WordPress folder and database and transfer them to S3
+# version 1
+
 #!/bin/bash
 
 # Variables
